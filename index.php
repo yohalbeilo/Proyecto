@@ -16,6 +16,16 @@
             </p>
         </div>
     </div>
+    </div>
+<footer style="background: black; color:#fff; padding:20px 0; text-align:center; margin-top:40px;">
+    <div style="max-width:900px; margin:auto;">
+        <h3 style="margin-bottom:5px;">OneProject</h3>
+        <p style="margin:0;">Tu mejor solución digital</p>
+        <p style="margin-top:10px; font-size:14px; color:#aaa;">
+            &copy; <?php echo date("Y"); ?> OneProject. Todos los derechos reservados.
+        </p>
+    </div>
+</footer>
     
 </body>
 </html>
