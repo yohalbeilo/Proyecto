@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #000;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background: rgb(255, 255, 255);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav-right a {
+    margin-left: 15px;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.btn.login {
+    background: transparent;
+    border: 2px solid #3498db;
+    color: #3498db;
+}
+
+.btn.login:hover {
+    background: #3498db;
+    color: black;
+}
+
+.btn.register {
+    background: #3498db;
+    color: black;
+    border: 2px solid #3498db;
+}
+
+.btn.register:hover {
+    background: #217dbb;
+}
+
+.hero {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.hero h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.hero p {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+.card{
+    float: left;
+}
