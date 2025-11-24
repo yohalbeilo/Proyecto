@@ -6,6 +6,16 @@
     <title>Document</title>
 </head>
 <body>
+        <div class="card" style="width: 14rem;">
+        <img src="img/yohalbe.jpg" class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">Yohalbe Pichardo</h5>
+            <p class="card-text">Organizo el trabajo del equipo.
+ 
+                Conecto el formulario a la base de datos.
+            </p>
+        </div>
+    </div>
     
 </body>
 </html>
